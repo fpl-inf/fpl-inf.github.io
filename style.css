@@ -7,7 +7,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #4CAF50;
+    background-color: navy;
     color: white;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ header {
 
 /* Footer styling */
 footer {
-    background-color: #4CAF50;
+    background-color: navy;
     color: white;
     text-align: center;
     padding: 10px;
