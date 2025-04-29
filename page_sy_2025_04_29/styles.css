@@ -1,0 +1,43 @@
+body  {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.header  {
+	background-color: #000080;
+	color: Yellow;
+	padding: 20px;
+	text-aling: center;
+}
+.content  {
+	padding: 20px;
+}
+.footer  {
+	background-color: #800000;
+	color:black;
+	text-align: center;
+	padding: 10px;
+	
+	width: 100%;
+	bottom: 0;
+}
+h1{
+	color:blue;
+	font-style:oblique;
+	
+}
+.flex-container {
+  display: flex;
+  background-color: #2e2c0a;
+}
+
+.flex-container > div {
+  background-color: #ffe60085;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+
+
+
